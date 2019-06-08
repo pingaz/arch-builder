@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-1. Write a template yaml file, like this:
+1. Write a template yaml file, for example:
 ``` yaml
 - aws
   - vpc
